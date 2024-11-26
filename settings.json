@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "trabalho",
+            "database": "crud_example",
+            "username": "root",
+            "password": "Jtuta123@"
+        }
+    ],
+    "C_Cpp.default.compilerPath": ""
+}
